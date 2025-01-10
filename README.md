@@ -15,13 +15,13 @@ USAGE\
 \
     Exemple:\
 \
-    Add WIRE usb, ADD PROCESSOR i5, ADD DEVICE laptop\
-    DISP\
-    SORT NAME\
-    DISP\
-    SORT ID\
-    DISP\
-    DEL 2\
-    DISP\
+    add WIRE usb, ADD PROCESSOR i5, ADD DEVICE laptop\
+    disp\
+    sort NAME\
+    disp\
+    sort ID\
+    disp\
+    del 2\
+    disp\
 \
     If there is an error in the command, the program will stop and exit with 84.
