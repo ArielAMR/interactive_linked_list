@@ -15,7 +15,7 @@ USAGE\
 \
     Exemple:\
 \
-    add WIRE usb, ADD PROCESSOR i5, ADD DEVICE laptop\
+    add WIRE usb, PROCESSOR i5, DEVICE laptop\
     disp\
     sort NAME\
     disp\
